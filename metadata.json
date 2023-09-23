@@ -1,0 +1,8 @@
+{
+  "name": "Screen Time Tracker",
+  "description": "Tracks how much time you spent without touching grass",
+  "uuid": "rajeevtapadia@gnome.com",
+  "shell-version": [
+    "44"
+  ]
+}
